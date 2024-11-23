@@ -1,4 +1,25 @@
 ## Hi there 👋
+🚀 Aspiring Software Engineer | 🎓 Computer Science Graduate (Cardiff University, 2024)
+📍 Based in Cardiff, UK | 🌍 Fluent in English and Arabic
+
+## About me 
+Hi! I'm Sanad Jarrad, an aspiring software engineer passionate about designing and building robust backend systems that drive scalable and high-performing applications. With a strong academic foundation from Cardiff University, where I pursued Computer Science (graduating in 2024), I’ve honed my skills in developing efficient algorithms, database architecture, and API design. 
+
+## 🌟 Featured Projects
+
+1- **Capturing Heart Activities Using Acoustic Signals:** A Non-invasive heartbeat monitoring system utilizing smartphones and advanced signal processing.
+
+2- **Chat Application:** A Java-based client-server chat platform with GUI and multi-threaded server.
+
+3- **Flask-Based Supplement Store:** basic Full-stack web app demonstrating dynamic product display and basic database integration.
+
+## 📫 Connect with Me
+
+📧 Email: Jarradsanad@gmail.com 
+
+🌐 Portfolio: Coming Soon
+
+💼 LinkedIn: https://www.linkedin.com/in/sanad-jarrad-101956208/
 
 <!--
 **Sanadjarrad/Sanadjarrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
