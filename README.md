@@ -1,6 +1,5 @@
 ## Hi there 👋
-🚀 Aspiring Software Engineer | 🎓 Computer Science Graduate (Cardiff University, 2024)
-📍 Based in Cardiff, UK | 🌍 Fluent in English and Arabic
+🚀 Aspiring Software Engineer | 🎓 Computer Science Graduate (Cardiff University, 2024)📍 Based in Cardiff, UK | 🌍 Fluent in English and Arabic
 
 ## About me 
 Hi! I'm Sanad Jarrad, an aspiring software engineer passionate about designing and building robust backend systems that drive scalable and high-performing applications. With a strong academic foundation from Cardiff University, where I pursued Computer Science (graduating in 2024), I’ve honed my skills in developing efficient algorithms, database architecture, and API design. 
