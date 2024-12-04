@@ -10,7 +10,7 @@ Hi! I'm Sanad Jarrad, an aspiring software engineer passionate about designing a
 
 2- **Chat Application:** A Java-based client-server chat platform with GUI and multi-threaded server.
 
-3- **Flask-Based Supplement Store:** basic Full-stack web app demonstrating dynamic product display and basic database integration.
+3- **Flask-Based Supplement Store:** Basic Full-stack web app demonstrating dynamic product display and basic database integration.
 
 ## 📫 Connect with Me
 
