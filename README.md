@@ -8,7 +8,7 @@ Hi! I'm Sanad Jarrad, an aspiring software engineer passionate about designing a
 
 1- **Capturing Heart Activities Using Acoustic Signals:** A Non-invasive heartbeat monitoring system utilizing smartphones and advanced signal processing.
 
-2- **Chat Application:** A Java-based client-server chat platform with GUI and multi-threaded server.
+2- **AI-powered email reply assistant:** A Java-based email reply assistant powered by googles gemini API.
 
 3- **Flask-Based Supplement Store:** Basic Full-stack web app demonstrating dynamic product display and basic database integration.
 
